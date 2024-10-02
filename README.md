@@ -6,9 +6,13 @@ This project is designed as a solution for the VCT Hackathon: Esport Manager Cha
 
 # Key Features:
 **LLM-Powered Chat Interface:** Utilizes advanced large language models via Amazon Bedrock to handle user inquiries in real-time.
+
 **Team Builder:** Assists users in building teams based on data from VALORANT esports players.
+
 **Accurate Information Retrieval:** Leverages external data sources to provide precise answers on VALORANT esports players, teams, strategies, and match history.
+
 **Cost Efficiency:** Optimized to deliver the most accurate answers with minimal resource consumption, designed to lower operational costs.
+
 **Employee Workload Reduction:** Frees up internal resources by automating user inquiries, enabling staff to focus on higher-priority tasks.
 
 # Objectives:
